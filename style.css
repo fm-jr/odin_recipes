@@ -1,10 +1,15 @@
+
+#thefont {
+    font-family: cursive, "Times New Roman", sans-serif;
+}
+
+
 .header,
 .description {
     color: blue;
     background-color: black;
     text-align: center;
     font-size: 65px;
-    font-family: cursive, sans-serif;
 }
 .description {
     color: white;
@@ -21,4 +26,20 @@
     text-align: center;
     font-size: 22px;
     font-family: cursive, sans-serif;
+}
+.header1 {
+    background-color: black;
+    color: gold;
+    font-size: 55px;
+}
+.description1 {
+    background-color: black;
+    color: white;
+    font-size: 35px;
+}
+.ingredients,
+.steps {
+    background-color: red;
+    color: white;
+    font-size: 30px;
 }
